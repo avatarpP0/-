@@ -1,0 +1,6 @@
+{
+  "name": "صرح العدالة للمحاماة والاستشارات القانونية",
+  "description": "موقع فاخر لشركة محاماة واستشارات قانونية دولية يتضمن عناصر ثلاثية الأبعاد تفاعلية وحجز استشارات ولوحة تحكم متكاملة لإدارة المحتوى.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
